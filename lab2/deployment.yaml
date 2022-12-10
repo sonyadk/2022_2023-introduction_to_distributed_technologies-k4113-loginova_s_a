@@ -1,0 +1,26 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: lab2-frontend
+  labels:
+    app: lab2-frontend
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: lab2-frontend
+  template:
+    metadata:
+      labels:
+        app: lab2-frontend
+    spec:
+      containers:
+      - name: lab2-frontend
+        image: ifilyaninitmo/itdt-contained-frontend:master
+        ports:
+        - containerPort: 3000
+        env:
+        - name: REACT_APP_USERNAME
+          value: "Sofia"
+        - name: REACT_APP_COMPANY_NAME
+          value: "ITMO"
