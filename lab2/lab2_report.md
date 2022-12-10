@@ -86,7 +86,7 @@ spec:
 
 ![image](https://user-images.githubusercontent.com/52317905/206808838-3821813b-0ace-4fe2-9ab9-253495b76c82.png)
 
-Проверяем логи каждого под отдельно
+Проверяем логи каждого пода отдельно
 
 ![image](https://user-images.githubusercontent.com/52317905/206808977-9488d721-04c3-4447-b129-a66cc5bbae91.png)
 
