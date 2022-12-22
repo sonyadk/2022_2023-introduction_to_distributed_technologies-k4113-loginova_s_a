@@ -14,7 +14,7 @@ Lab: Lab2
 
 Date of create: 18.11.2022
 
-Date of finished: Not yet
+Date of finished: 10.12.2022
 
 ## Ход работы
 
