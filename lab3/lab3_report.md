@@ -154,3 +154,8 @@ spec:
 
 ### Сертификат
 ![image](https://user-images.githubusercontent.com/52317905/209157960-0c31605d-b3e8-4fab-8486-ecc85fa76dbd.png)
+
+
+## Схема
+
+![image](https://github.com/sonyadk/2022_2023-introduction_to_distributed_technologies-k4113-loginova_s_a/blob/main/lab3/lab3.png)
