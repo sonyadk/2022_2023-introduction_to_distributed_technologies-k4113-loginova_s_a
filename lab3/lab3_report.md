@@ -14,7 +14,7 @@ Lab: Lab3
 
 Date of create: 18.11.2022
 
-Date of finished: Not yet
+Date of finished: 22.12.2022
 
 ## Ход работы
 
@@ -154,7 +154,6 @@ spec:
 
 ### Сертификат
 ![image](https://user-images.githubusercontent.com/52317905/209157960-0c31605d-b3e8-4fab-8486-ecc85fa76dbd.png)
-
 
 ## Схема
 
