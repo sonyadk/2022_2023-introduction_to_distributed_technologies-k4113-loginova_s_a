@@ -130,3 +130,7 @@ spec:
 ![image](https://user-images.githubusercontent.com/52317905/209189117-a2202c82-e445-40fa-bdb5-cb88228cbe17.png)
 
 ![image](https://user-images.githubusercontent.com/52317905/209188539-4ca572f5-e454-4abf-8aca-0ae5708cef6f.png)
+
+## Схема
+
+![iamge](https://github.com/sonyadk/2022_2023-introduction_to_distributed_technologies-k4113-loginova_s_a/blob/main/lab4/lab4.png)
