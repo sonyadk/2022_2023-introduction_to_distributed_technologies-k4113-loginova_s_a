@@ -28,3 +28,9 @@
 3. [Отчет. Лабораторная работа №3. Сертификаты и "секреты" в Minikube, безопасное хранение данных.](https://github.com/sonyadk/2022_2023-introduction_to_distributed_technologies-k4113-loginova_s_a/tree/main/lab3)
 
 4. [Отчет. Лабораторная работа №4. Сети связи в Minikube, CNI и CoreDNS.](https://github.com/sonyadk/2022_2023-introduction_to_distributed_technologies-k4113-loginova_s_a/tree/main/lab4)
+
+## Статья на Medium
+- [Определенно про распределенные](https://medium.com/@echoofmydreams/определенно-про-распределенные-6ea0b45e5f50)
+
+### Аннотация
+В статье происходит поиск ответов на вопрос: что такое распределенные технологии, как к ним относится блокчейн и микросервисы, и почему они так популярны?
